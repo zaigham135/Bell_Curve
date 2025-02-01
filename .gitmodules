@@ -1,0 +1,3 @@
+   [submodule "Bell_Curve"]
+       path = Bell_Curve
+       url = https://github.com/zaigham135/Bell_Curve.git
